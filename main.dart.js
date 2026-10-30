@@ -120326,7 +120326,7 @@ $0(){A.c3(this.a,!1).bw(null)
 return null},
 $S:0}
 A.bkQ.prototype={
-$1(a){var s=null,r=this.b,q=t.p,p=A.fV(A.Z(A.a([A.h("This is a demo server, so no email is sent. Give "+this.a+' this one-time code. They open the app, tap "Staff: I have an invitation code" on the sign-in screen, paste it, and choose a password.',s,s,s,s,s,s,s,s),B.p,A.bnX(r,B.ac7,s)],q),B.r,B.e,B.a_,0,B.j),s,B.w,s,s,s,s,B.a4)
+$1(a){var s=null,r=this.b,q=t.p,p=A.fV(A.Z(A.a([A.h("This is a demo server, so no email is sent. Give "+this.a+' this one-time code. They open the app, tap "I have an invitation code" on the sign-in screen, paste it, and choose a password.',s,s,s,s,s,s,s,s),B.p,A.bnX(r,B.ac7,s)],q),B.r,B.e,B.a_,0,B.j),s,B.w,s,s,s,s,B.a4)
 return A.hT(A.a([A.bQ(B.aga,s,s,new A.bkO(r,a),s,s),A.bQ(B.HU,s,s,new A.bkP(a),s,s)],q),p,B.agh)},
 $S:60}
 A.bkO.prototype={
@@ -120885,7 +120885,7 @@ A.zD.prototype={
 S(){return new A.a4V()}}
 A.a4V.prototype={
 v(a){var s,r,q,p,o,n,m=this,l=null,k=t.p,j=A.a([],k)
-if(J.hS(m.a.c))j.push(B.agx)
+if(J.hS(m.a.c))j.push(B.agy)
 s=m.d
 r=t.R
 q=A.a([],r)
@@ -121126,7 +121126,7 @@ if(m.h(0,"note")!=null)i.push(new A.P(B.ek,A.h("Note: "+A.r(m.h(0,"note")),h,h,h
 l=A.cK(A.w(m.h(0,"createdAt"))).cO()
 i.push(A.h("Requested "+(""+A.bg(l)+" "+B.aQ[A.aP(l)-1]+" "+A.aL(l)),h,h,h,h,p,h,h,h))
 if(m.h(0,f)!=null)i.push(new A.P(B.ek,A.h(A.r(m.h(0,f)),h,h,h,h,p,h,h,h),h))
-if(J.e(m.h(0,"status"),"PENDING"))i.push(A.ac(A.a([A.bQ(B.agy,h,h,new A.aNB(n,m),h,h),B.fw,A.bQ(B.afI,h,h,new A.aNC(n,m),h,h)],s),B.h,B.e,B.f,0,h))
+if(J.e(m.h(0,"status"),"PENDING"))i.push(A.ac(A.a([A.bQ(B.agz,h,h,new A.aNB(n,m),h,h),B.fw,A.bQ(B.afI,h,h,new A.aNC(n,m),h,h)],s),B.h,B.e,B.f,0,h))
 r.push(new A.P(B.a6,new A.be(A.Z(i,B.r,B.e,B.f,0,B.j),h,h,h),h))}e=A.bi(r,B.B,h,!1)}return e},
 $S:76}
 A.aNB.prototype={
@@ -122591,7 +122591,7 @@ o.push(new A.P(B.d4,A.h("Teacher: "+n,l,l,l,l,m,l,l,l),l))}i.push(new A.P(B.is,n
 $S:902}
 A.Cx.prototype={
 cz(a,b){var s=null,r=A.v(a)
-return A.bu(A.bC(s,s,!0,s,s,s,s,s,s,B.agz),s,new A.aw(b.W($.bqY().$1(this.e),t.di),new A.aug(b),new A.auh(r.ok),s,t.zT),s,s)}}
+return A.bu(A.bC(s,s,!0,s,s,s,s,s,s,B.agA),s,new A.aw(b.W($.bqY().$1(this.e),t.di),new A.aug(b),new A.auh(r.ok),s,t.zT),s,s)}}
 A.aug.prototype={
 $0(){return this.a.Z($.bqY())},
 $S:0}
@@ -124151,7 +124151,7 @@ if(o!=null)B.b.K(p,A.a([new A.cd(o,!0,r),B.p],q))
 o=s.at
 if(o!=null)B.b.K(p,A.a([new A.cd(o,!1,r),B.p],q))
 if(s.ax)p.push(new A.P(B.is,A.hg(B.bl,A.a([A.bQ(B.ah2,r,r,s.gaEz(),r,r),A.bQ(B.agZ,r,r,new A.b0F(a),r,r)],q),B.bq,0,0),r))
-return new A.fM("Welcome Back","Sign in to continue learning",p,A.a([new A.cx("Sign In",s.gaAt(),s.z,r,r),B.ac,A.hg(B.fG,A.a([B.ahN,A.bQ(B.agK,r,r,new A.b0G(a),r,r)],q),B.jv,0,0),A.eb(A.bQ(B.agG,r,r,new A.b0H(a),r,r),r,r)],q),!1,r)}}
+return new A.fM("Welcome Back","Sign in to continue learning",p,A.a([new A.cx("Sign In",s.gaAt(),s.z,r,r),B.ac,A.hg(B.fG,A.a([B.ahN,A.bQ(B.agK,r,r,new A.b0G(a),r,r)],q),B.jv,0,0),A.eb(A.bQ(B.agn,r,r,new A.b0H(a),r,r),r,r)],q),!1,r)}}
 A.b0v.prototype={
 $0(){var s=this.a
 s.z=!0
@@ -124427,7 +124427,7 @@ case 5:return A.l(null,r)
 case 1:return A.k(p.at(-1),r)}})
 return A.m($async$vB,r)},
 v(a){var s=null,r=A.v(a)
-return A.bu(A.bC(s,s,!0,s,s,s,s,s,s,B.agE),s,new A.aw(this.gT().W($.aif(),t.gS),new A.b8F(this),new A.b8G(this,r.ok),s,t.YX),s,s)}}
+return A.bu(A.bC(s,s,!0,s,s,s,s,s,s,B.agF),s,new A.aw(this.gT().W($.aif(),t.gS),new A.b8F(this),new A.b8G(this,r.ok),s,t.YX),s,s)}}
 A.b8q.prototype={
 $0(){var s=this.a
 s.as=!0
@@ -124613,7 +124613,7 @@ case 6:case 1:return A.l(q,r)
 case 2:return A.k(o.at(-1),r)}})
 return A.m($async$A0,r)},
 v(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.v(a).ok
-if(j.at){s=j.Q==="TEACHER"?"An administrator will review your request. If approved, you will get an invitation email.":"An administrator will review your request. Learners join through a parent or guardian: please ask them to create a parent account and add you."
+if(j.at){s=j.Q==="TEACHER"?"An administrator will review your request. If approved, you will get an invitation email.":"An administrator will review your request. If approved, you will get an invitation to set your password."
 return new A.fM("Request Received",s,B.Ye,A.a([new A.cx("Back to Sign In",new A.b5L(a),!1,i,i)],t.p),!0,i)}r=j.Q==="PARENT"
 s=t.p
 q=A.a([A.fK(i,j.x,"Enter your full name",B.kG,i,"Full Name",!1,i,B.dc,new A.b5M()),B.p,A.fK(i,j.y,"Enter your email address",B.kF,B.e2,"Email",!1,i,B.dc,A.bgQ()),B.p],s)
@@ -124627,7 +124627,7 @@ for(n=0;n<3;++n){m=B.Zs[n]
 l=m.a
 k=l==="TEACHER"?0:8
 o.push(new A.cp(1,B.aa,new A.P(new A.ap(0,0,k,0),new A.ad7(m.b,m.c,j.Q===l,new A.b5N(j,m),i),i),i))}q=A.a([q,B.p,p,B.x,A.ac(o,B.h,B.e,B.f,0,i)],s)
-if(!r){p=j.Q==="TEACHER"?"An administrator reviews every teacher request before an account is made.":"Learners join through a parent or guardian. An administrator reviews this request."
+if(!r){p=j.Q==="TEACHER"?"An administrator reviews every teacher request before an account is made.":"An administrator reviews every student request before an account is made."
 q.push(new A.P(B.aW,A.h(p,i,i,i,i,h.Q,i,i,i),i))}q.push(B.aR)
 p=j.ax
 q.push(A.XU(B.q,B.T,B.oW,!0,new A.b5O(j),A.bob(A.ey(B.WY,i,i,i,i,i,i,i,i,B.ab2,i),i,i),p))
@@ -124635,7 +124635,7 @@ if(j.ay)q.push(B.a3c)
 p=j.CW
 if(p!=null)B.b.K(q,A.a([new A.cd(p,!0,i),B.p],s))
 p=r?"Create Account":"Send Request"
-return new A.fM("Create Your Account","Join SOLEC GH and start learning",q,A.a([new A.cx(p,j.gaEj(),j.ch,i,i),B.p,A.hg(B.fG,A.a([B.afT,A.bQ(B.agu,i,i,new A.b5P(a),i,i)],s),B.jv,0,0)],s),!0,i)}}
+return new A.fM("Create Your Account","Join SOLEC GH and start learning",q,A.a([new A.cx(p,j.gaEj(),j.ch,i,i),B.p,A.hg(B.fG,A.a([B.afT,A.bQ(B.agv,i,i,new A.b5P(a),i,i)],s),B.jv,0,0)],s),!0,i)}}
 A.b5E.prototype={
 $0(){var s=this.a
 return s.ay=!s.ax},
@@ -125450,7 +125450,7 @@ A.aYx.prototype={
 $1(a){var s,r,q,p=null,o=this.a,n=o.a,m=n===1?"":"s",l=t.p,k=A.a([A.h("Checked "+n+" pending payment"+m+" with the payment provider: "+o.b+" confirmed, "+o.c+" failed, "+o.d+" still pending.",p,p,p,p,p,p,p,p),B.p],l)
 o=o.e
 if(o.length===0)J.eI(k,B.ahk)
-else{s=A.a([B.agA],l)
+else{s=A.a([B.agB],l)
 for(n=o.length,q=0;q<o.length;o.length===n||(0,A.z)(o),++q){r=o[q]
 J.eI(s,A.h("\u2022 "+A.r(r),p,p,p,p,p,p,p,p))}J.bm3(k,s)}k=A.fV(A.Z(k,B.r,B.e,B.a_,0,B.j),p,B.w,p,p,p,p,B.a4)
 return A.hT(A.a([A.bQ(B.afL,p,p,new A.aYv(a),p,p)],l),k,B.afl)},
@@ -125880,7 +125880,7 @@ if(r)B.b.K(a0,A.a([B.p,new A.cx("Pay "+A.cU(s),new A.b_O(e,a1),e.x,B.cN,f)],b))
 s=this.c
 if(s&&r){r=e.x
 n=A.q0(B.U_,B.ahS,r?f:new A.b_P(e,a1))
-m=A.q0(B.Tr,B.agv,r?f:new A.b_Q(e,a1))
+m=A.q0(B.Tr,B.agw,r?f:new A.b_Q(e,a1))
 B.b.K(a0,A.a([B.x,A.hg(B.bl,A.a([n,m,A.q0(B.Tq,B.ahV,r?f:new A.b_R(e,a1))],b),B.bq,8,8)],b))}a0.push(B.ac)
 a0.push(A.h("Payments",f,f,f,f,c,f,f,f))
 c=a1.ay
@@ -125912,7 +125912,7 @@ if(l!=null)g.push(A.h(l,f,f,f,f,a==null?f:a.aA(B.a9),f,f,f))
 l=n.e
 if(l>0)g.push(A.h("Refunded "+A.cU(l),f,f,f,f,a,f,f,f))
 if(k==="SUCCEEDED"){j=A.a([A.oN(B.U7,B.agi,new A.b_S(e,n))],b)
-if(s&&l<m)j.push(A.oN(B.Ub,B.ago,e.x?f:new A.b_T(e,n)))
+if(s&&l<m)j.push(A.oN(B.Ub,B.agp,e.x?f:new A.b_T(e,n)))
 g.push(new A.qR(B.bl,8,0,B.bq,j,f))}a0.push(new A.P(B.aW,new A.be(A.Z(g,B.r,B.e,B.f,0,B.j),f,f,f),f))}return A.e5(A.bi(a0,B.B,f,!1),new A.b_U(e))},
 $S:953}
 A.b_U.prototype={
@@ -126366,7 +126366,7 @@ s.y=null},
 $S:0}
 A.B7.prototype={
 cz(a,b){var s=null,r=b.W($.fo(),t.F)===B.aU
-return A.YV(A.bu(A.bC(s,s,!0,s,B.a4k,s,s,s,s,B.agw),s,A.a3R(A.a([new A.a9L(r,s),new A.a9K(r,s),new A.a7y(r,s)],t.p)),s,s),3)}}
+return A.YV(A.bu(A.bC(s,s,!0,s,B.a4k,s,s,s,s,B.agx),s,A.a3R(A.a([new A.a9L(r,s),new A.a9K(r,s),new A.a7y(r,s)],t.p)),s,s),3)}}
 A.bfZ.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.h(k.a,j,j,j,j,j,j,j,j),h=t.p,g=A.a([],h)
 for(s=k.b,r=s.length,q=k.c,p=0;p<s.length;s.length===r||(0,A.z)(s),++p){o=s[p].a
@@ -127370,7 +127370,7 @@ A.a9Q.prototype={
 v(a){var s=this,r=null,q=s.gT(),p=q.W($.fo(),t.F),o=A.a([],t.p),n=p===B.dM
 if(n)o.push(A.dA(r,r,r,B.TX,r,r,new A.b1w(a),r,r,r,"New message"))
 o.push(A.dA(r,r,r,B.Tt,r,r,new A.b1x(a),r,r,r,"Help and support"))
-o=A.bC(o,r,!0,r,r,r,r,r,r,B.agn)
+o=A.bC(o,r,!0,r,r,r,r,r,r,B.ago)
 n=n?A.jb(r,r,B.vL,B.I1,new A.b1y(a)):r
 return A.bu(o,r,A.e5(new A.aw(q.W($.WU(),t.qd),new A.b1z(s),new A.b1A(s,p,a),r,t.B8),new A.b1B(s)),r,n)}}
 A.b1w.prototype={
@@ -127715,7 +127715,7 @@ $0(){return this.a.x=this.b},
 $S:0}
 A.E4.prototype={
 cz(a,b){var s=null
-return A.YV(A.bu(A.bC(s,s,!0,s,B.aa7,s,s,s,s,B.agt),s,A.a3R(A.a([A.e5(new A.aw(b.W($.aic(),t.Dk),new A.aGj(b),new A.aGk(a),s,t.bH),new A.aGl(b)),A.e5(new A.aw(b.W($.blM(),t.xr),new A.aGm(b),new A.aGn(a),s,t.Et),new A.aGo(b))],t.p)),s,s),2)}}
+return A.YV(A.bu(A.bC(s,s,!0,s,B.aa7,s,s,s,s,B.agu),s,A.a3R(A.a([A.e5(new A.aw(b.W($.aic(),t.Dk),new A.aGj(b),new A.aGk(a),s,t.bH),new A.aGl(b)),A.e5(new A.aw(b.W($.blM(),t.xr),new A.aGm(b),new A.aGn(a),s,t.Et),new A.aGo(b))],t.p)),s,s),2)}}
 A.aGl.prototype={
 $0(){var s=0,r=A.n(t.H),q,p=this
 var $async$$0=A.j(function(a,b){if(a===1)return A.k(b,r)
@@ -128691,7 +128691,7 @@ s="/assessments/"+a.a
 s=a.d?s+"/result"+r:s+"/take"+r
 A.aJ(q,s,t.X)},
 v(a){var s=this,r=null,q=A.v(a)
-return A.bu(A.bC(r,r,!0,r,r,r,r,r,r,B.agB),r,new A.aw(s.gT().W($.blJ().$1(s.gQv()),t.lS),new A.aT4(s),new A.aT5(s,q.ok,a),r,t.b7),r,r)}}
+return A.bu(A.bC(r,r,!0,r,r,r,r,r,r,B.agC),r,new A.aw(s.gT().W($.blJ().$1(s.gQv()),t.lS),new A.aT4(s),new A.aT5(s,q.ok,a),r,t.b7),r,r)}}
 A.aT4.prototype={
 $0(){var s=this.a
 return s.gT().Z($.blJ().$1(s.gQv()))},
@@ -130753,7 +130753,7 @@ break
 case 7:case 1:return A.l(q,r)
 case 2:return A.k(o.at(-1),r)}})
 return A.m($async$vu,r)},
-v(a){var s=this,r=null,q=s.w,p=B.BS.h(0,s.x),o=A.bC(r,r,!0,r,r,r,r,r,r,B.ah0),n=A.jb(r,r,B.TI,B.agq,s.gazO()),m=A.yQ("Search staff...",new A.bej(s)),l=B.BS.gcw()
+v(a){var s=this,r=null,q=s.w,p=B.BS.h(0,s.x),o=A.bC(r,r,!0,r,r,r,r,r,r,B.ah0),n=A.jb(r,r,B.TI,B.agr,s.gazO()),m=A.yQ("Search staff...",new A.bej(s)),l=B.BS.gcw()
 return A.bu(o,r,A.Z(A.a([new A.P(B.PM,m,r),new A.P(B.aW,new A.fQ(l.e_(l),s.x,new A.bek(s),r),r),A.au(new A.aw(s.gT().W($.aip().$1(new A.abU(p,q)),t.Mr),new A.bel(s),new A.bem(s,a),r,t.O4),1)],t.p),B.h,B.e,B.f,0,B.j),r,n)}}
 A.bec.prototype={
 $1(a){var s=this
@@ -130765,7 +130765,7 @@ for(s=m.d,r=s.length,q=t.O,p=0;p<s.length;s.length===r||(0,A.z)(s),++p){o=s[p]
 n=B.BM.h(0,o)
 n.toString
 g.push(new A.cb(o,A.h(n,l,l,l,l,l,l,l,l),B.a8,l,q))}s=t.p
-i=A.fV(A.Z(A.a([k,j,B.x,A.ei(B.Vk,h,!0,g,new A.be8(i,b),t.N),B.x,B.agD],s),B.h,B.e,B.a_,0,B.j),l,B.w,l,l,l,l,B.a4)
+i=A.fV(A.Z(A.a([k,j,B.x,A.ei(B.Vk,h,!0,g,new A.be8(i,b),t.N),B.x,B.agE],s),B.h,B.e,B.a_,0,B.j),l,B.w,l,l,l,l,B.a4)
 return A.hT(A.a([A.bQ(B.bQ,l,l,new A.be9(a),l,l),A.bQ(B.ag4,l,l,new A.bea(a),l,l)],s),i,B.ahb)},
 $S:182}
 A.be8.prototype={
@@ -133692,7 +133692,7 @@ B.b.K(o,n.fC(l,new A.bcZ(),t.N))
 n=r.x==null?"All children":n.lq(l,new A.bd_(r)).b
 p.push(new A.P(B.cd,new A.fQ(o,n,new A.bd0(r,l),q),q))}p.push(A.au(new A.aw(m,r.gaHI(),new A.bd1(r),q,t.jF),1))
 s=A.Z(p,B.h,B.e,B.f,0,B.j)
-p=r.a.e?q:A.bC(q,q,!0,q,q,q,q,q,q,B.agC)
+p=r.a.e?q:A.bC(q,q,!0,q,q,q,q,q,q,B.agD)
 o=r.a.d
 return A.bu(p,B.I,s,q,o===B.aU||o===B.cW?A.jb(B.q,B.n,B.eo,B.ahp,new A.bd2(r,a)):q)},
 auz(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.B(t.CG,t.Al)
@@ -140473,8 +140473,8 @@ B.afN=new A.a4("Active",null,null,null,null,null,null,null,null,null,null)
 B.OP=new A.cb("ACTIVE",B.afN,B.a8,null,t.O)
 B.afV=new A.a4("Pending",null,null,null,null,null,null,null,null,null,null)
 B.ON=new A.cb("PENDING",B.afV,B.a8,null,t.O)
-B.agr=new A.a4("Inactive",null,null,null,null,null,null,null,null,null,null)
-B.OQ=new A.cb("INACTIVE",B.agr,B.a8,null,t.O)
+B.ags=new A.a4("Inactive",null,null,null,null,null,null,null,null,null,null)
+B.OQ=new A.cb("INACTIVE",B.ags,B.a8,null,t.O)
 B.WF=s([B.OP,B.ON,B.OQ],t.R)
 B.WH=s([4,9,14,19],t.Y)
 B.Zf=s([137,80,78,71,13,10,26,10],t.Z)
@@ -140804,8 +140804,8 @@ B.agW=new A.a4("General",null,null,null,null,null,null,null,null,null,null)
 B.OS=new A.cb("GENERAL",B.agW,B.a8,null,t.O)
 B.afJ=new A.a4("Academic",null,null,null,null,null,null,null,null,null,null)
 B.OO=new A.cb("ACADEMIC",B.afJ,B.a8,null,t.O)
-B.agF=new A.a4("Events",null,null,null,null,null,null,null,null,null,null)
-B.OK=new A.cb("EVENTS",B.agF,B.a8,null,t.O)
+B.agG=new A.a4("Events",null,null,null,null,null,null,null,null,null,null)
+B.OK=new A.cb("EVENTS",B.agG,B.a8,null,t.O)
 B.YS=s([B.OS,B.OO,B.OK],t.R)
 B.YT=s(["ALL","PARENTS","STUDENTS","TEACHERS","CLASS"],t.s)
 B.wy=s(["S","M","T","W","T","F","S"],t.s)
@@ -140843,8 +140843,8 @@ B.a5e=new A.dE(B.hd,"IT / System Admin","Technical settings, audit logs and staf
 B.a59=new A.dE(B.kM,"Management / Board","Totals and reports only. No individual learner records.")
 B.Zh=s([B.a5j,B.a5c,B.a5d,B.a5h,B.a5o,B.a5e,B.a59],t.UT)
 B.wB=s([B.dN,B.fN,B.rl,B.jH,B.rm],A.av("I<kC>"))
-B.ags=new A.a4("In progress",null,null,null,null,null,null,null,null,null,null)
-B.OM=new A.cb("IN_PROGRESS",B.ags,B.a8,null,t.O)
+B.agt=new A.a4("In progress",null,null,null,null,null,null,null,null,null,null)
+B.OM=new A.cb("IN_PROGRESS",B.agt,B.a8,null,t.O)
 B.HU=new A.a4("Done",null,null,null,null,null,null,null,null,null,null)
 B.OU=new A.cb("DONE",B.HU,B.a8,null,t.O)
 B.Zi=s([B.tT,B.OM,B.OU],t.R)
@@ -142656,8 +142656,8 @@ B.ahs=new A.a4(u.x,null,null,null,null,null,null,null,null,null,null)
 B.Hk=new A.l9(B.ahs,null,null,null,null,null,null,null,null,null,null,null,null,B.C,!1,null,null,null,B.k,null)
 B.afH=new A.a4("Nothing on this phone can open that.",null,null,null,null,null,null,null,null,null,null)
 B.a9x=new A.l9(B.afH,null,null,null,null,null,null,null,null,null,null,null,null,B.C,!1,null,null,null,B.k,null)
-B.agp=new A.a4("Lesson scheduled. Everyone affected was notified.",null,null,null,null,null,null,null,null,null,null)
-B.a9y=new A.l9(B.agp,null,null,null,null,null,null,null,null,null,null,null,null,B.C,!1,null,null,null,B.k,null)
+B.agq=new A.a4("Lesson scheduled. Everyone affected was notified.",null,null,null,null,null,null,null,null,null,null)
+B.a9y=new A.l9(B.agq,null,null,null,null,null,null,null,null,null,null,null,null,B.C,!1,null,null,null,B.k,null)
 B.Hl=new A.NI(0,"permissive")
 B.a9z=new A.NI(1,"normal")
 B.a9A=new A.NI(2,"forced")
@@ -143127,23 +143127,23 @@ B.agj=new A.a4("Add topic",null,null,null,null,null,null,null,null,null,null)
 B.agl=new A.a4("Child Profile",null,null,null,null,null,null,null,null,null,null)
 B.aaL=new A.M(!0,B.ao,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.agm=new A.a4("Already have an account?",null,B.aaL,null,null,null,null,null,null,null,null)
-B.agn=new A.a4("Messages",null,null,null,null,null,null,null,null,null,null)
-B.ago=new A.a4("Refund",null,null,null,null,null,null,null,null,null,null)
-B.agq=new A.a4("Add staff",null,null,null,null,null,null,null,null,null,null)
+B.agn=new A.a4("I have an invitation code",null,null,null,null,null,null,null,null,null,null)
+B.ago=new A.a4("Messages",null,null,null,null,null,null,null,null,null,null)
+B.agp=new A.a4("Refund",null,null,null,null,null,null,null,null,null,null)
+B.agr=new A.a4("Add staff",null,null,null,null,null,null,null,null,null,null)
 B.I_=new A.a4("New class",null,null,null,null,null,null,null,null,null,null)
-B.agt=new A.a4("Safeguarding",null,null,null,null,null,null,null,null,null,null)
-B.agu=new A.a4("Sign in",null,null,null,null,null,null,null,null,null,null)
-B.agv=new A.a4("Waive",null,null,null,null,null,null,null,null,null,null)
-B.agw=new A.a4("Board Members",null,null,null,null,null,null,null,null,null,null)
-B.agx=new A.a4("No active teachers yet. Invite teachers first.",null,null,null,null,null,null,null,null,null,null)
-B.agy=new A.a4("Decline",null,null,null,null,null,null,null,null,null,null)
-B.agz=new A.a4("Results & progress",null,null,null,null,null,null,null,null,null,null)
-B.agA=new A.a4("Needs attention:",null,B.e4,null,null,null,null,null,null,null,null)
-B.agB=new A.a4("Course Details",null,null,null,null,null,null,null,null,null,null)
-B.agC=new A.a4("Timetable",null,null,null,null,null,null,null,null,null,null)
-B.agD=new A.a4("They receive an email with a one-time code to set their own password.",null,null,null,null,null,null,null,null,null,null)
-B.agE=new A.a4("Two-step sign-in",null,null,null,null,null,null,null,null,null,null)
-B.agG=new A.a4("Staff: I have an invitation code",null,null,null,null,null,null,null,null,null,null)
+B.agu=new A.a4("Safeguarding",null,null,null,null,null,null,null,null,null,null)
+B.agv=new A.a4("Sign in",null,null,null,null,null,null,null,null,null,null)
+B.agw=new A.a4("Waive",null,null,null,null,null,null,null,null,null,null)
+B.agx=new A.a4("Board Members",null,null,null,null,null,null,null,null,null,null)
+B.agy=new A.a4("No active teachers yet. Invite teachers first.",null,null,null,null,null,null,null,null,null,null)
+B.agz=new A.a4("Decline",null,null,null,null,null,null,null,null,null,null)
+B.agA=new A.a4("Results & progress",null,null,null,null,null,null,null,null,null,null)
+B.agB=new A.a4("Needs attention:",null,B.e4,null,null,null,null,null,null,null,null)
+B.agC=new A.a4("Course Details",null,null,null,null,null,null,null,null,null,null)
+B.agD=new A.a4("Timetable",null,null,null,null,null,null,null,null,null,null)
+B.agE=new A.a4("They receive an email with a one-time code to set their own password.",null,null,null,null,null,null,null,null,null,null)
+B.agF=new A.a4("Two-step sign-in",null,null,null,null,null,null,null,null,null,null)
 B.agK=new A.a4("Create account",null,null,null,null,null,null,null,null,null,null)
 B.agL=new A.a4("Create",null,null,null,null,null,null,null,null,null,null)
 B.agM=new A.a4("Add member",null,null,null,null,null,null,null,null,null,null)
