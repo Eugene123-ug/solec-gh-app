@@ -119840,7 +119840,7 @@ A.bid.prototype={
 $1(a){return null},
 $S:816}
 A.bhD.prototype={
-$1(a){var s,r=null,q=A.bso(A.brv("https://tackle-snort-relearn.ngrok-free.dev",B.OX,A.ae(["Accept","application/json","ngrok-skip-browser-warning","true"],t.N,t.z),B.tU,r)),p=a.W($.bCI(),t.QV)
+$1(a){var s,r=null,q=A.bso(A.brv("https://solec-gh-demo-api.onrender.com",B.OX,A.ae(["Accept","application/json"],t.N,t.z),B.tU,r)),p=a.W($.bCI(),t.QV)
 if(p!=null)q.Jo$=p
 s=q.wH$
 s.G(s,new A.a_E(new A.bhB(a),new A.bhC(a,q),r,r,r))
